@@ -216,4 +216,7 @@ print()
 - Dan ini struk pembelian
 ![gambar](ss5.png)
 
+- Snapcode
+![gambar](ss1.png)
+
 # Sekian, Terima Kasih, Selamat Libur Semester 
