@@ -204,3 +204,16 @@ print("|================================|")
 print()
 ```
 - ### Dibawah adalah gambaran ketika program dijalankan
+- Halaman utama
+![gambar](ss2.png)
+
+- Ketika memesan menu makanan
+![gambar](ss3.png)
+
+- Ketika memesan menu minuman
+![gambar](ss4.png)
+
+- Dan ini struk pembelian
+![gambar](ss5.png)
+
+# Sekian, Terima Kasih, Selamat Libur Semester 
