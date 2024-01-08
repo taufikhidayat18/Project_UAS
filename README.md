@@ -6,7 +6,7 @@
 | KELAS  | TI.23.A6 |
 | DOSEN  | Agung Nugroho,S.Kom.,M.Kom |
 | MATKUL | Bahasa Pemrograman         |
-| LINK YT|                            |
+| LINK YT| https://youtu.be/WarcjBHIfg8?si=xt5a36QjioUkY7B_ |
 # Program Kasir Kantin
 - Dibawah adalah untuk method menampilkan daftar menu
 
