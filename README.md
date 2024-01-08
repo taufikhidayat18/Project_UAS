@@ -1,11 +1,12 @@
 # Project_UAS
 
-| NAMA  :| Taufik Hidayat |
+| NAMA   | Taufik Hidayat |
 | --- | --- |
-| NIM   :| 312310576 |
-| KELAS :| TI.23.A6 |
-| DOSEN :| Agung Nugroho,S.Kom.,M.Kom |
-
+| NIM    | 312310576 |
+| KELAS  | TI.23.A6 |
+| DOSEN  | Agung Nugroho,S.Kom.,M.Kom |
+| MATKUL | Bahasa Pemrograman         |
+| LINK YT|                            |
 # Program Kasir Kantin
 - Dibawah adalah untuk method menampilkan daftar menu
 
